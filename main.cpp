@@ -1,3 +1,7 @@
+/*
+designed by sch
+2019.10.13
+*/
 #include "dialog.h"
 
 #include <QApplication>
