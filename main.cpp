@@ -22,5 +22,4 @@ int main(int argc, char *argv[])
     splitterMain->show();
 
     return a.exec();
-    //sunchaohuiwudi
-}//sch
+}
